@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ContactEditViewController OnDeleteContact:]:ContactEdditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_ContactOneDic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__40-[ContactEditViewController viewDidLoad]_block_invoke79:ContactEdditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_txtPostalCountry">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ContactEditViewController connectionDidFinishLoading:]:ContactEdditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_txtFirstName.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__40-[ContactEditViewController viewDidLoad]_block_invoke75:ContactEdditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_SelCountry">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__50-[ContactEditViewController getRequestContactData]_block_invoke:ContactEdditViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__45-[ContactEditViewController OnDeleteContact:]_block_invoke:ContactEdditViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
